@@ -1,0 +1,28 @@
+﻿<Window x:Class="Лабораторная_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Лабораторная_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="728" Width="1245" Background="Pink" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Background="Pink" HorizontalAlignment="Left" Margin="30,0,0,-6" Width="1261">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1051*"/>
+            <ColumnDefinition Width="131*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Name="TextFile" Background="White" HorizontalAlignment="Left" Margin="10,59,0,0" TextWrapping="Wrap" Text="Vasilisa" VerticalAlignment="Top" Height="334" Width="446"/>
+        <Button Content="Импорт из файла" HorizontalAlignment="Left" Margin="502,63,0,0" VerticalAlignment="Top" Width="158" Height="50" Click="Button_Click"/>
+        <Label Content="Текст из файла" HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top" Height="30" Width="109"/>
+        <Label Content="Расшифрование" HorizontalAlignment="Left" Margin="622,430,0,0" VerticalAlignment="Top" Height="68" Width="103"/>
+        <TextBlock Name="Decrypt" Background="White" HorizontalAlignment="Left" Margin="608,454,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="189" Width="564" Grid.ColumnSpan="2"/>
+        <Button Content="Зашифрование зигзагом" HorizontalAlignment="Left" Margin="788,247,0,0" VerticalAlignment="Top" Width="210" Height="41" Click="ZigzagEncrypt"/>
+        <Button Click="ZigzagDecrypt" Content="Расшифрование зигзагом" HorizontalAlignment="Left" Margin="788,326,0,0" VerticalAlignment="Top" Width="210" Height="41"/>
+        <Button Click="PermutationEncrypt" Content="Шифрование методом множественной перестановки" HorizontalAlignment="Left" Margin="684,63,0,0" VerticalAlignment="Top" Width="432" Height="39" Grid.ColumnSpan="2"/>
+        <Button Click="PermutationDecrypt" Content="Дешифрование методом множественной перестановки" HorizontalAlignment="Left" Margin="684,131,0,0" VerticalAlignment="Top" Width="432" Height="39" Grid.ColumnSpan="2"/>
+        <Label Content="Зашифрование" HorizontalAlignment="Left" Margin="10,429,0,0" VerticalAlignment="Top" Height="68" Width="95"/>
+        <TextBlock x:Name="Encrypt" Background="White" HorizontalAlignment="Left" Margin="10,451,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="194" Width="571"/>
+        <Button Click="Clear_ALL" Content="Очистить" HorizontalAlignment="Left" Margin="511,352,0,0" VerticalAlignment="Top" Width="140" Height="41"/>
+    </Grid>
+</Window>
