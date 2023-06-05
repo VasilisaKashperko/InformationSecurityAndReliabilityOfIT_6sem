@@ -1,0 +1,48 @@
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\lab10.csprojAssemblyReference.cache
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\lab10.AssemblyInfoInputs.cache
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\lab10.AssemblyInfo.cs
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\lab10.csproj.CoreCompileInputs.cache
+D:\3c2s\ЗИ_\2sem\lab10\lab10\bin\Debug\net5.0\lab10.exe
+D:\3c2s\ЗИ_\2sem\lab10\lab10\bin\Debug\net5.0\lab10.deps.json
+D:\3c2s\ЗИ_\2sem\lab10\lab10\bin\Debug\net5.0\lab10.runtimeconfig.json
+D:\3c2s\ЗИ_\2sem\lab10\lab10\bin\Debug\net5.0\lab10.runtimeconfig.dev.json
+D:\3c2s\ЗИ_\2sem\lab10\lab10\bin\Debug\net5.0\lab10.dll
+D:\3c2s\ЗИ_\2sem\lab10\lab10\bin\Debug\net5.0\ref\lab10.dll
+D:\3c2s\ЗИ_\2sem\lab10\lab10\bin\Debug\net5.0\lab10.pdb
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\lab10.dll
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\ref\lab10.dll
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\lab10.pdb
+D:\3c2s\ЗИ_\2sem\lab10\lab10\obj\Debug\net5.0\lab10.genruntimeconfig.cache
+D:\zin\Zinis\Semestr2\labs10\lab10\bin\Debug\net5.0\lab10.exe
+D:\zin\Zinis\Semestr2\labs10\lab10\bin\Debug\net5.0\lab10.deps.json
+D:\zin\Zinis\Semestr2\labs10\lab10\bin\Debug\net5.0\lab10.runtimeconfig.json
+D:\zin\Zinis\Semestr2\labs10\lab10\bin\Debug\net5.0\lab10.runtimeconfig.dev.json
+D:\zin\Zinis\Semestr2\labs10\lab10\bin\Debug\net5.0\lab10.dll
+D:\zin\Zinis\Semestr2\labs10\lab10\bin\Debug\net5.0\ref\lab10.dll
+D:\zin\Zinis\Semestr2\labs10\lab10\bin\Debug\net5.0\lab10.pdb
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\lab10.csprojAssemblyReference.cache
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\lab10.AssemblyInfoInputs.cache
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\lab10.AssemblyInfo.cs
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\lab10.csproj.CoreCompileInputs.cache
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\lab10.dll
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\ref\lab10.dll
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\lab10.pdb
+D:\zin\Zinis\Semestr2\labs10\lab10\obj\Debug\net5.0\lab10.genruntimeconfig.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\bin\Debug\net5.0\lab10.exe
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\bin\Debug\net5.0\lab10.deps.json
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\bin\Debug\net5.0\lab10.runtimeconfig.json
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\bin\Debug\net5.0\lab10.runtimeconfig.dev.json
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\bin\Debug\net5.0\lab10.dll
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\bin\Debug\net5.0\lab10.pdb
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\lab10.csproj.AssemblyReference.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\lab10.AssemblyInfoInputs.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\lab10.AssemblyInfo.cs
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\lab10.csproj.CoreCompileInputs.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\lab10.dll
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\refint\lab10.dll
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\lab10.pdb
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\lab10.genruntimeconfig.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 10\labs10\lab10\obj\Debug\net5.0\ref\lab10.dll
