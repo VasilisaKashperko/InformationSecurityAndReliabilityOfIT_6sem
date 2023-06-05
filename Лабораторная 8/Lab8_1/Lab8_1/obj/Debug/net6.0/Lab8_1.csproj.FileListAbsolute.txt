@@ -1,0 +1,30 @@
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.exe
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.deps.json
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.runtimeconfig.json
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.dll
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.pdb
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.csproj.AssemblyReference.cache
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.AssemblyInfoInputs.cache
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.AssemblyInfo.cs
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.csproj.CoreCompileInputs.cache
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.dll
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\refint\Lab8_1.dll
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.pdb
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.genruntimeconfig.cache
+D:\ЗИиНИС\Лабораторная работа №8\Lab8_1\Lab8_1\obj\Debug\net6.0\ref\Lab8_1.dll
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.exe
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.deps.json
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.runtimeconfig.json
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.dll
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\bin\Debug\net6.0\Lab8_1.pdb
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.csproj.AssemblyReference.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.AssemblyInfoInputs.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.AssemblyInfo.cs
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.csproj.CoreCompileInputs.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.dll
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\refint\Lab8_1.dll
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.pdb
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\Lab8_1.genruntimeconfig.cache
+D:\Учеба в БГТУ\Криптография\Лабораторная 8\Lab8_1\Lab8_1\obj\Debug\net6.0\ref\Lab8_1.dll
